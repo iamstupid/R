@@ -1,0 +1,47 @@
+.R{
+  height:12px;
+	width:30px;
+	background:#ffff77;
+	box-shadow:0 0 2px gray;
+	border-radius:3px;
+}
+.R:before{
+	display:block;
+	height:0px;
+	width:10px;
+	border-top:1px solid gray;
+	content:'';
+	top:5px;
+	position:relative;
+	left:-11px;
+}
+.R:after{
+	display:block;
+	height:0px;
+	width:10px;
+	border-top:1px solid gray;
+	content:'';
+	top:-13px;
+	position:relative;
+	right:-31px;
+}
+.R div{
+	-webkit-transform:translate(3px,-4px);
+	display:inline-block;
+	border:none;
+	margin-left:4px;
+	width:1px;
+	height:12px;
+}
+.black{
+	background:black;
+}
+.brown{
+	background:brown;
+}
+.red{
+	background:red;
+}
+.gold{
+	background:#dddd00;
+}
