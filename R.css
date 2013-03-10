@@ -1,5 +1,5 @@
 .R{
-  height:12px;
+	height:12px;
 	width:30px;
 	background:#ffff77;
 	box-shadow:0 0 2px gray;
@@ -44,4 +44,16 @@
 }
 .gold{
 	background:#dddd00;
+}
+.blue{
+	background:blue;
+}
+.green{
+	background:green;
+}
+.orange{
+	background:#ff6600;
+}
+.yellow{
+	background:#ffff00;
 }
