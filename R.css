@@ -1,7 +1,7 @@
 .R{
 	height:12px;
 	width:30px;
-	background:#ffffaa;
+	background:#ffffdd;
 	box-shadow:0 0 2px gray;
 	
 
@@ -53,24 +53,24 @@ width:2px;
 	background:red;
 }
 .gold{
-	background:#dddd00;
+	background:-webkit-linear-gradient(#ffff00,#cccc00);
 }
 .blue{
-	background:blue;
-}
-.green{
 	
 
-background:green;
+background:blue;
+}
+.green{
+	background:green;
 }
 .orange{
 	background:#ff6600;
 }
 .yellow{
-	background:#ffff00;
-}
-.purple{
 	
 
-background:purple;
+background:#eeee00;
+}
+.purple{
+	background:purple;
 }
